@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sumant Padhy — Developer Portfolio
 
 A responsive dark portfolio built with React, Vite, CSS, and Lucide icons. It highlights AI/ML, web development, and Unity game development projects.
@@ -53,3 +54,7 @@ Alternative: Netlify can deploy the project using build command `npm run build` 
 - Resume PDF: `public/resume.pdf` (downloaded from the portfolio Contact section)
 
 To update the resume later, replace `public/resume.pdf` with your latest PDF while keeping the same filename.
+=======
+# sumant-portfolio
+My personal portfolio website built with React and Vite    
+>>>>>>> 56a3d352509dd2a29b0651cae48b9225c7edc353
